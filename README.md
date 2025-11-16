@@ -1,4 +1,5 @@
-#*MNIST Digit Classifier (Keras)*
+#**MNIST Digit Classifier (Keras)**
+
 This project is a simple neural-network classifier trained on the MNIST handwritten digits dataset using TensorFlow/Keras.
 It demonstrates how to load image data, preprocess it, build a neural-network model, train it, and visualize predictions.
 
